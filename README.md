@@ -10,7 +10,6 @@ This project detects lane lines in a road image using edge detection and Hough T
 ## Eye Pupils Detection
 This project detects eye pupils using face detection and eye detection techniques. It marks the pupils in a circular manner for visualization.
 
-
 ## Requirements
 - Python
 - OpenCV
