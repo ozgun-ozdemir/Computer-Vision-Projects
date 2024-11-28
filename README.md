@@ -1,4 +1,4 @@
-# Computer Vision Projects
+# Computer Vision Project
 This repository contains various projects in the field of computer vision. The projects cover topics such as image processing, object detection, and face recognition.
 
 ## Coin Detection
