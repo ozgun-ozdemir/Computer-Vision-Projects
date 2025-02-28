@@ -1,5 +1,5 @@
 # Computer Vision Project
-This repository contains various projects in the field of computer vision. 
+This repository contains various projects in the field of computer vision. The project covers the following topics; Coin Detection, Lane Line Detection and Pupil Detection.
 
 ## Coin Detection
 This project uses the Hough Circle Transform to detect coins in an image. It identifies the number and locations of the coins and marks them in the output image.
