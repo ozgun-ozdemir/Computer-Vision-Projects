@@ -11,7 +11,7 @@ This project detects lane lines in a road image using edge detection and the Hou
 
 <img width="635" alt="2" src="https://github.com/user-attachments/assets/407aa5ea-7b1e-4727-be0b-01bf55e0e66e" />
 
-## Eyes Detection
+## Eye Detection
 This project detects eyes using face and eye detection techniques. It marks the eyes with a circular outline for visualization.
 
 <img width="636" alt="3" src="https://github.com/user-attachments/assets/1e651693-952a-4ea5-8cc9-1e12202dec85" />
