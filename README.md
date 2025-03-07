@@ -1,4 +1,4 @@
-# Computer Vision Project
+# Computer Vision Projects
 This repository contains various projects in the field of computer vision, covering topics such as coin detection, lane line detection, and eye detection.
 
 ## Coin Detection
